@@ -1,0 +1,14 @@
+layout_spectrum: 0.5526090662460774
+typography_spectrum: 0.5083930727560073
+color:
+  brandStrength: 0.46581025049090385
+  lightness: 0.6049924897961318
+  saturation: 0.926006886176765
+  rhythmicContrast: 0.854001771658659
+  brandColors:
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+name: Furniture Grid
