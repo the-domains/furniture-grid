@@ -1,18 +1,30 @@
-layout_spectrum: 0.5526090662460774
-typography_spectrum: 0.5083930727560073
+layout_spectrum: 1
+name: Furniture Grid
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+navigation:
+  - url: 'https://www.behance.net/saranggujarathi'
+    name: a
+    type: external
 color:
-  brandStrength: 0.46581025049090385
-  lightness: 0.6049924897961318
-  saturation: 0.926006886176765
-  rhythmicContrast: 0.854001771658659
+  brandStrength: 0.9553192
+  lightness: 0.07234043
+  saturation: 0.1617021
+  rhythmicContrast: 0.9765958
   brandColors:
     - '#FF6600'
     - '#C13B00'
     - '#5E6D70'
     - '#424E4F'
     - '#1B1D1E'
-name: Furniture Grid
-navigation:
-  - name: a
-    url: 'https://www.behance.net/saranggujarathi'
-    type: external
+typography_spectrum: 0.1170213
