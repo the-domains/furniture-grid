@@ -12,10 +12,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-navigation:
-  - url: 'https://www.behance.net/saranggujarathi'
-    name: a
-    type: external
 color:
   brandStrength: 0.9553192
   lightness: 0.4787234
