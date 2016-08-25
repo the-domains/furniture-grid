@@ -18,13 +18,13 @@ navigation:
     type: external
 color:
   brandStrength: 0.9553192
-  lightness: 0.07234043
-  saturation: 0.1617021
-  rhythmicContrast: 0.9765958
+  lightness: 0.4787234
+  saturation: 0.5680851
+  rhythmicContrast: 0.2297872
   brandColors:
     - '#FF6600'
     - '#C13B00'
     - '#5E6D70'
     - '#424E4F'
     - '#1B1D1E'
-typography_spectrum: 0.1170213
+typography_spectrum: 0.3978723
